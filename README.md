@@ -32,9 +32,9 @@ cd gotracing
 
 3. Build the project:
 
-'''shell
+```shell
 go build
-'''
+```
 
 ## Usage
 To render a scene, execute the following command:
